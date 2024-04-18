@@ -6,3 +6,6 @@ Paper: Miro1 mutation leads to metabolic maladaptation resulting in Parkinson’
 Claudia Saraiva, Alise Zagare, Maria Pacheco, Thomas Sauter, Jens Schwamborn
 
 (Authors & order TBC)
+
+Model building was done with scFASTCORMICS, see:
+[scFASTCORMICS](https://github.com/sysbiolux/scFASTCORMICS)
