@@ -1,6 +1,8 @@
 ## Model analysis
 
 * Requires scFASTCORMICS output: Claudia_medium_cons_250723.mat
+
+ Models can be loaded with: load('Claudia_medium_cons_250723.mat','Results_keep')
  
 * Model statistics and Fig 4C generated with: driverAnalysis_0723_PAPER.m
 
