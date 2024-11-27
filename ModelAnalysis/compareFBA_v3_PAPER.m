@@ -29,7 +29,7 @@ for counterP=1:numel(nrPathways)
             metList={'cit[c]','icit[c]','akg[c]','succ[c]','fum[c]','oaa[c]'}
         case 4
             pathway='Tricarboxylic acid cycle'
-            metList={'cit[m]','icit[m]','akg[m]','succoa[m]','succ[m]','fum[m]','mal_L[m]','oaa[m]'},
+            metList={'cit[m]','icit[m]','akg[m]','succoa[m]','succ[m]','fum[m]','mal_L[m]','oaa[m]'}
         case 5
             pathway='Oxidative phosphorylation'
             metList={'nadh[m]','fadh2[m]','focytC[m]','q10h2[m]','atp[m]'}
